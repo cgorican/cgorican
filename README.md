@@ -1,7 +1,7 @@
 ### Hello, fellow developer 👋🏼
 
 - 🌱 I’m currently learning kotlin and react
-- 🔭 I’m currently working on digital twin project
+- 🔭 I'm currently working on a digital twin project
 
 <!--
 **cgorican/cgorican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
