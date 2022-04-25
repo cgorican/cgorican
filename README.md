@@ -5,11 +5,12 @@
 - 🐳 Good friend with Docker and Git
 - 📫 How to reach me: <a href="mailto:crt.gorican@gmail.com">crt.gorican@gmail.com</a>
 
-### Skills
+### Languages
 - C
 - C#
 - C++
 - Kotlin
+- PHP
 - Python
 - Javascript
 
