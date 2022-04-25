@@ -1,4 +1,4 @@
-# Hello, fellow developer 👋🏼
+## Hello, fellow developer 👋🏼
 
 - 🌱 I’m currently learning kotlin and react
 - 🔭 I'm currently working on a digital twin project
