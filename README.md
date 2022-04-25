@@ -5,6 +5,14 @@
 - 🐳 Good friend with Docker and Git
 - 📫 How to reach me: <a href="mailto:crt.gorican@gmail.com">crt.gorican@gmail.com</a>
 
+### Skills
+- C
+- C#
+- C++
+- Kotlin
+- Python
+- Javascript
+
 <!--
 **cgorican/cgorican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
