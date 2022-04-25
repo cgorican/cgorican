@@ -10,9 +10,16 @@
 - C#
 - C++
 - Kotlin
-- PHP
 - Python
 - Javascript
+
+#### Web
+- PHP
+- NodeJS
+
+#### Database
+- MySQL
+- MongoDB
 
 <!--
 **cgorican/cgorican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
