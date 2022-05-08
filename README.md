@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning kotlin and react
 - 🔭 I'm currently working on a digital twin project
 - 🐳 Good friend with Docker and Git
-- 📫 How to reach me: <a href="mailto:crt.gorican@gmail.com">crt.gorican@gmail.com</a>
+- 📫 You can reach me via <a href="mailto:crt.gorican@gmail.com">mail</a>
 
 ### Languages
 - C
