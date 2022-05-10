@@ -1,9 +1,9 @@
 ## Hello, fellow developer 👋🏼
 
-- 🌱 I’m currently learning kotlin and react
-- 🔭 I'm currently working on a digital twin project
+- 🌱 I’m currently learning <b>React</b>
+- 🔭 I'm currently working on a <b>Digital twin project</b>
 - 🐳 Good friend with Docker and Git
-- 📫 You can reach me via <a href="mailto:crt.gorican@gmail.com">mail</a>
+- 📫 How to reach me <a href="mailto:crt.gorican@gmail.com">crt.gorican@gmail.com</a>
 
 ### Languages
 - C
