@@ -14,8 +14,8 @@
 - Javascript
 
 #### Web
-- PHP
-- NodeJS
+- LAMP
+- MERN
 
 #### Database
 - MySQL
