@@ -29,6 +29,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>
   <!-- DOCKER -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/>
+  <!-- HEROKU -->
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="40"/>
   
   <!-- PHP -->
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/>
