@@ -1,10 +1,5 @@
 ## Hello, fellow developer 👋🏼
 
-<div style="display: flex;">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cgorican&&theme=tokyonight" alt="cgorican" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cgorican&show_icons=true&locale=en&theme=tokyonight" alt="cgorican" />
-</div>
-
 - 🌱 I’m currently learning <b>React</b>
 - 🔭 I'm currently working on a <b>Digital twin project</b>
 - 🐳 Good friend with Docker and Git
@@ -116,6 +111,9 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> 
   </a>
 </p>
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cgorican&&theme=tokyonight" alt="cgorican" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cgorican&show_icons=true&locale=en&theme=tokyonight" alt="cgorican" />
 
 <!--Sarthak's GitHub activity graph-->
 [![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=cgorican&&theme=xcode)](https://github.com/cgorican)
