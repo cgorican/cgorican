@@ -1,5 +1,11 @@
 ## Hello, fellow developer 👋🏼
 
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=cgorican&layout=compact&theme=monokai)](https://wakatime.com/@cgorican)
+
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fes3n1n&count_bg=%23A84899&title_bg=%23651C5B&icon=&icon_color=%238F6363&title=hits&edge_flat=true)
+
+[![wakatime2](https://wakatime.com/badge/user/5d479aac-75d5-4643-83ef-3dcc28110e89.svg)](https://wakatime.com/@es3n1n)
+
 - 🌱 I’m currently learning <b>React</b>
 - 🔭 I'm currently working on a <b>Digital twin project</b>
 - 🐳 Good friend with <b>Docker</b> and <b>Git</b>
@@ -40,7 +46,7 @@
   </a>
   <!-- PYTHON -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
   </a>
   <!-- JS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -60,6 +66,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
 -->  
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
   <!-- GIT -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -92,10 +100,14 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
   <!-- MYSQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
 
 <!--
