@@ -1,5 +1,7 @@
 ## Hello, fellow developer 👋🏼
 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cgorican&&theme=tokyonight" alt="cgorican" />
+
 - 🌱 I’m currently learning <b>React</b>
 - 🔭 I'm currently working on a <b>Digital twin project</b>
 - 🐳 Good friend with Docker and Git
@@ -102,24 +104,20 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/>
   </a>
+  <!-- NODEJS -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/>
+  </a>
+  <!-- POSTMAN -->
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> 
+  </a>
 </p>
-
-
-
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/>
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> 
-</a>
-
 
 <!--Sarthak's GitHub activity graph-->
 [![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=cgorican&&theme=xcode)](https://github.com/cgorican)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cgorican&show_icons=true&locale=en&theme=tokyonight" alt="cgorican" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cgorican&&theme=tokyonight" alt="cgorican" />
 
 <!--
 **cgorican/cgorican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
