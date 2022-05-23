@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   
   <!-- PHP -->
-  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/>
   <!-- REACT -->
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   <!-- FLUTTER -->
