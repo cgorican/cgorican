@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning <b>React</b>
 - 🔭 I'm currently working on a <b>Digital twin project</b>
-- 🐳 Good friend with <b>Docker</b> and <b>Git</b>
+- 🐳 Good friend with Docker and Git
 - 📫 How to reach me <a href="mailto:crt.gorican@gmail.com">crt.gorican@gmail.com</a>
 
 ### Languages
@@ -25,6 +25,10 @@
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <!-- C# -->
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
