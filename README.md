@@ -1,7 +1,9 @@
 ## Hello, fellow developer 👋🏼
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cgorican&&theme=tokyonight" alt="cgorican" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cgorican&show_icons=true&locale=en&theme=tokyonight" alt="cgorican" />
+<div style="display: flex;">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cgorican&&theme=tokyonight" alt="cgorican" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cgorican&show_icons=true&locale=en&theme=tokyonight" alt="cgorican" />
+</div>
 
 - 🌱 I’m currently learning <b>React</b>
 - 🔭 I'm currently working on a <b>Digital twin project</b>
