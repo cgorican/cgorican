@@ -24,6 +24,7 @@
   <!-- HTML & CSS -->
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" height="40"/>
   
   <!-- GIT -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>
@@ -32,6 +33,8 @@
   <!-- DOCKER -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/>
   
+  <!-- NODE JS -->
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/>
   <!-- PHP -->
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/>
   <!-- REACT -->
@@ -48,6 +51,8 @@
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="40"/>
   <!-- FIGMA -->
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/>
+  <!-- POSTMAN -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/>
 </p>
 
 <!--
