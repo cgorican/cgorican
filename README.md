@@ -5,7 +5,7 @@
 - 🐳 Good friend with <b>Docker</b> and <b>Git</b>
 - 📫 How to reach me <a href="mailto:crt.gorican@gmail.com">crt.gorican@gmail.com</a>
 
-### 🚀 Languages and Tools
+### Languages and Tools
 
 <p>
   <!-- C -->
