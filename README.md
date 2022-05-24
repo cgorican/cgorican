@@ -61,8 +61,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=cgorican&show_icons=true&locale=en&theme=tokyonight" alt="cgorican" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgorican&langs_count=8&count_private=true&layout=compact&theme=tokyonight" alt="cgorican" />
 
-<!--Sarthak's GitHub activity graph-->
+<!--Sarthak's GitHub activity graph
 [![Activity graph](https://activity-graph.herokuapp.com/graph?username=cgorican&&theme=xcode)](https://github.com/cgorican)
+-->
+
 
 <!--
 **cgorican/cgorican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
