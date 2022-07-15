@@ -1,22 +1,28 @@
 ## Hello, fellow developer 👋🏼
 
+Hi, my name is Črt and I'm from Maribor.
+Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile 😄
+
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=cgorican)
 [![Github](https://img.shields.io/github/followers/cgorican?label=Follow&style=social)](https://github.com/cgorican)
 
 - 🌱 I’m currently learning <b>reverse engineering<b>
-- 🔭 I'm currently working on a <b>Digital twin project</b>
-- 💻 Student of <a href="https://feri.um.si/">FERI</a> (<i>2nd year completed</i>)
+- 🔭 I'm currently working on a <b>Digital twin & blockchain project</b>
+- 💻 Student of <a href="https://feri.um.si/">FERI</a>
 - 🐳 Good friend with <b>Docker</b> and <b>Git</b>
+- ⚡ Fun fact: I like to learn ethical hacking in my free time
 - 📫 You can reach me at <a href="mailto:crt.gorican@gmail.com">crt.gorican@gmail.com</a>
 
 ## Languages and Tools
+### Languages
+  
 
 ### Fullstacks
 - MERN
 - LAMP
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="30"/>
+  <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" height="30"/>
@@ -52,5 +58,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with <b>game hacking</b>
 - 💬 Ask me about ...
-- ⚡ Fun fact: ...
+
 -->
