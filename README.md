@@ -20,38 +20,33 @@ Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile ð
   <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="cplusplus" height="30"/>
   <img src="https://img.icons8.com/color/452/python--v1.png" alt="python" height="30"/>
   <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" height="30"/>
+  <img src="https://img.icons8.com/dusk/344/php-logo.png" alt="php" height="30"/>
   <img src="https://img.icons8.com/color/344/kotlin.png" alt="kotlin" height="30"/>
 </p>
 
 ### Databases
 <p>
-  <img src="https://img.icons8.com/color/344/mysql-logo.png" alt="mysql" height="30"/>
   <img src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb" height="30"/>
+  <img src="https://img.icons8.com/color/344/mysql-logo.png" alt="mysql" height="30"/>
 </p>
   
 ### Fullstacks
 - MERN
 - LAMP
 
+### Frameworks
 <p>
-  <img src="https://img.icons8.com/color/344/nodejs.png" alt="nodejs" height="30"/>
-  
-  
-  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="30"/>
-  
-  
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="30"/>
-  
-  
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="30"/>
-  
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="30"/>
+  <img src="https://img.icons8.com/color/344/react-native.png" alt="react" height="30"/>
 </p>
-
-
+  
+### Other
+<p>
+  <img src="https://img.icons8.com/color/344/git.png" alt="git" height="30"/>
+  <img src="https://img.icons8.com/fluency/344/docker.png" alt="docker" height="30"/>
+  <img src="https://img.icons8.com/color/344/linux.png" alt="linux" height="30"/>
+  <img src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" height="30"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" height="30"/>
+</p>
 
 <!--
 
