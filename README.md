@@ -1,7 +1,6 @@
 ## Hello, fellow developer 👋🏼
 
-Hi, my name is Črt and I'm from Maribor.
-Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile 😄
+Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile 😄
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=cgorican)
 [![Github](https://img.shields.io/github/followers/cgorican?label=Follow&style=social)](https://github.com/cgorican)
