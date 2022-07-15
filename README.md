@@ -1,5 +1,12 @@
 ## Hello, fellow developer 👋🏼
 
+<div id="badges">
+  
+</div>
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=cgorican)
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/cgorican)
+
 - 🌱 I’m currently learning <b>...<b>
 - 🔭 I'm currently working on a <b>Digital twin project</b>
 - 🐳 Good friend with <b>Docker</b> and <b>Git</b>
