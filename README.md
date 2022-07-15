@@ -24,19 +24,20 @@ Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile �
   <img src="https://img.icons8.com/color/344/kotlin.png" alt="kotlin" height="30"/>
 </p>
 
+### Fullstacks
+- MERN
+- LAMP
+  
 ### Databases
 <p>
   <img src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb" height="30"/>
   <img src="https://img.icons8.com/color/344/mysql-logo.png" alt="mysql" height="30"/>
 </p>
-  
-### Fullstacks
-- MERN
-- LAMP
 
 ### Frameworks
 <p>
   <img src="https://img.icons8.com/color/344/react-native.png" alt="react" height="30"/>
+  <img src="https://img.icons8.com/color/344/flutter.png" alt="flutter" height="30"/>
 </p>
   
 ### Other
@@ -46,21 +47,12 @@ Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile �
   <img src="https://img.icons8.com/color/344/linux.png" alt="linux" height="30"/>
   <img src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" height="30"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" height="30"/>
+  <img src="https://img.icons8.com/color/344/heroku.png" alt="heroku" height="30"/>
 </p>
 
 <!--
-
-  
-  <!-- KOTLIN -- >
-  
-  <!-- HEROKU -- >
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="40"/>
-  <!-- FLUTTER -- >
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40"/>
-
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with <b>game hacking</b>
 - 💬 Ask me about ...
-
 -->
