@@ -1,7 +1,8 @@
 ## Hello, fellow developer 👋🏼
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=cgorican)
-[![Github](https://img.shields.io/github/followers/cgorican?label=follow&style=social)](https://github.com/cgorican)
+[![Github](https://img.shields.io/github/followers/cgorican?label=follow)](https://github.com/cgorican)
+<!--[![Github](https://img.shields.io/github/followers/cgorican?label=follow&style=social)](https://github.com/cgorican)-->
 
 Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile 😄
 
