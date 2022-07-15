@@ -15,18 +15,21 @@ Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile ð
 
 ## Languages and Tools
 ### Languages
-  
+<p>
+  <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="30"/>
+  <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="cplusplus" height="30"/>
+  <img src="https://img.icons8.com/color/452/python--v1.png" alt="python" height="30"/>
+  <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" height="30"/>
+  <img src="https://img.icons8.com/color/344/kotlin.png" alt="kotlin" height="30"/>
+</p>
 
 ### Fullstacks
 - MERN
 - LAMP
 
 <p>
-  <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="30"/>
+  <img src="https://img.icons8.com/color/344/nodejs.png" alt="nodejs" height="30"/>
+  
   
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30"/>
