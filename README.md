@@ -23,6 +23,12 @@ Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile ð
   <img src="https://img.icons8.com/color/344/kotlin.png" alt="kotlin" height="30"/>
 </p>
 
+### Databases
+<p>
+  <img src="https://img.icons8.com/color/344/mysql-logo.png" alt="mysql" height="30"/>
+  <img src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb" height="30"/>
+</p>
+  
 ### Fullstacks
 - MERN
 - LAMP
@@ -32,10 +38,10 @@ Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile ð
   
   
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30"/>
+  
   
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="30"/>
+  
   
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="30"/>
