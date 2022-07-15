@@ -8,10 +8,12 @@ Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile �
 - 🌱 I’m currently learning <b>reverse engineering<b>
 - 🔭 I'm currently working on a <b>Digital twin & blockchain project</b>
 - 💻 Student of <a href="https://feri.um.si/">FERI</a>
-<!--- 🤔 I’m looking for help with <b>game hacking</b>-->
 - 🐳 Good friend with <b>Docker</b> and <b>Git</b>
-<!--- ⚡ Fun fact: I like to learn ethical hacking in my free time-->
 - 📫 You can reach me at <a href="mailto:crt.gorican@gmail.com">crt.gorican@gmail.com</a>
+<!--
+- 🤔 I’m looking for help with <b>game hacking</b>
+- ⚡ Fun fact: I like to learn ethical hacking in my free time
+-->
 
 ## Languages and Tools
 ### Languages
