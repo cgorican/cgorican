@@ -16,7 +16,7 @@ Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile �
 - ⚡ Fun fact: I like to learn ethical hacking in my free time
 -->
 
-## Languages and Tools
+## Skills
 ### Languages
 <p>
   <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="30"/>
