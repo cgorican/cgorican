@@ -11,11 +11,6 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/>
   
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
-  
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/>
   
