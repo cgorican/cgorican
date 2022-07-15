@@ -1,13 +1,9 @@
 ## Hello, fellow developer 👋🏼
 
-<div id="badges">
-  
-</div>
-
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=cgorican)
 [![Github](https://img.shields.io/github/followers/cgorican?label=Follow&style=social)](https://github.com/cgorican)
 
-- 🌱 I’m currently learning <b>...<b>
+- 🌱 I’m currently learning <b>game hacking<b>
 - 🔭 I'm currently working on a <b>Digital twin project</b>
 - 🐳 Good friend with <b>Docker</b> and <b>Git</b>
 
@@ -17,6 +13,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="40"/>
   
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/>
@@ -38,7 +35,7 @@
 - 📫 How to reach me <a href="mailto:crt.gorican@gmail.com">crt.gorican@gmail.com</a>
   
   <!-- KOTLIN -- >
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="40"/>
+  
   <!-- HEROKU -- >
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="40"/>
   <!-- FLUTTER -- >
