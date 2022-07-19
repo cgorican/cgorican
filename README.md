@@ -17,16 +17,19 @@ Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile �
 - ⚡ Fun fact: I like to learn ethical hacking in my free time
 -->
 
-## Skills
-### Languages
+## About Me
+
+<details><summary>Programming Languages</summary>
 <p>
-  <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="30"/>
-  <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="cplusplus" height="30"/>
-  <img src="https://img.icons8.com/color/452/python--v1.png" alt="python" height="30"/>
-  <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" height="30"/>
-  <img src="https://img.icons8.com/dusk/344/php-logo.png" alt="php" height="30"/>
-  <img src="https://img.icons8.com/color/344/kotlin.png" alt="kotlin" height="30"/>
+- <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="30"/> [C](https://en.cppreference.com/w/c/language)
+- <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="cplusplus" height="30"/> [C# (noob)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="cplusplus" height="30"/> [C++](https://cplusplus.com/)
+- <img src="https://img.icons8.com/color/452/python--v1.png" alt="python" height="30"/> [Python](https://www.python.org/)
+- <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" height="30"/> [JavaScript](https://www.javascript.com/)
+- <img src="https://img.icons8.com/dusk/344/php-logo.png" alt="php" height="30"/> [PHP](https://www.php.net/)
+- <img src="https://img.icons8.com/color/344/kotlin.png" alt="kotlin" height="30"/> [Kotlin](https://kotlinlang.org/)
 </p>
+</details>
 
 ### Fullstacks
 - MERN
