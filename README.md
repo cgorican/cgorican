@@ -26,7 +26,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 - <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="csharp" height="18"/> [C# (noob)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="cplusplus" height="18"/> [C++](https://cplusplus.com/)
 - <img src="https://img.icons8.com/color/452/python--v1.png" alt="python" height="18"/> [Python](https://www.python.org/)
-- <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" height="18"/> [JavaScript](https://www.javascript.com/)
+- <img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" height="18"/> [NodeJS](https://nodejs.org/)
 - <img src="https://img.icons8.com/dusk/344/php-logo.png" alt="php" height="18"/> [PHP](https://www.php.net/)
 - <img src="https://img.icons8.com/color/344/kotlin.png" alt="kotlin" height="18"/> [Kotlin](https://kotlinlang.org/)
   
