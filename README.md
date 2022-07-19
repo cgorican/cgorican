@@ -57,6 +57,14 @@ Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile �
 
 </details>
 
+<details><summary>Environment (OS) I use</summary>
+
+- <img src="https://img.icons8.com/fluency/344/windows-10.png" alt="Windows10" height="18"/> [Windows 10](https://www.microsoft.com/en-gb/windows/)
+- <img src="https://img.icons8.com/color/344/parrot-security.png" alt="ParrotSecurity" height="18"/> [Parrot Security](https://www.parrotsec.org/)
+
+</details>
+
+
 <!--
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
