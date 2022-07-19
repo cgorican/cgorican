@@ -6,7 +6,7 @@
 
 Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile 😄
 
--  📍 From Slovenia
+- <img src="https://img.icons8.com/color/344/slovenia-circular.png" alt="Slovenia" height="18"/> From Slovenia
 - 🌱 I’m currently learning <b>Angular</b>
 - 💻 I'm currently working on a <b>Digital twin & blockchain project</b>
 - 📚 Student of <a href="https://feri.um.si/">FERI</a>
