@@ -46,6 +46,13 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 
 </details>
 
+<details><summary>Environment (OS)</summary>
+
+- <img src="https://img.icons8.com/fluency/344/windows-10.png" alt="Windows10" height="18"/> [Windows 10](https://www.microsoft.com/en-gb/windows/)
+- <img src="https://img.icons8.com/color/344/parrot-security.png" alt="ParrotSecurity" height="18"/> [Parrot Security](https://www.parrotsec.org/)
+
+</details>
+
 <details><summary>Other</summary>
 
 - <img src="https://img.icons8.com/color/344/git.png" alt="git" height="18"/> [Git](https://git-scm.com/)
@@ -54,13 +61,6 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 - <img src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" height="18"/> [Figma](https://www.figma.com/)
 - <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" height="18"/> [Postman](https://www.postman.com/)
 - <img src="https://img.icons8.com/color/344/heroku.png" alt="heroku" height="18"/> [Heroku CLI](https://heroku.com/)
-
-</details>
-
-<details><summary>Environment (OS) I use</summary>
-
-- <img src="https://img.icons8.com/fluency/344/windows-10.png" alt="Windows10" height="18"/> [Windows 10](https://www.microsoft.com/en-gb/windows/)
-- <img src="https://img.icons8.com/color/344/parrot-security.png" alt="ParrotSecurity" height="18"/> [Parrot Security](https://www.parrotsec.org/)
 
 </details>
 
