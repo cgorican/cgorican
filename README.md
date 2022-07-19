@@ -70,6 +70,9 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 - <img src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" height="18"/> [Figma](https://www.figma.com/)
 - <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" height="18"/> [Postman](https://www.postman.com/)
 - <img src="https://img.icons8.com/color/344/heroku.png" alt="heroku" height="18"/> [Heroku CLI](https://heroku.com/)
+- <img src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" alt="Adobe Photoshop" height="18" /> [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+- <img src="https://img.icons8.com/fluency/344/affinity-photo-1.png" alt="Affinity Photo" height="18" /> [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
+- <img src="https://img.icons8.com/fluency/452/affinity-designer.png" alt="Affinity Designer" height="18" /> [Affinity Designer](https://affinity.serif.com/en-gb/designer/)
 
 </p>
 </details>
