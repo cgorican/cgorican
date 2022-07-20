@@ -30,7 +30,8 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 - <img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" height="18"/> [NodeJS](https://nodejs.org/)
 - <img src="https://img.icons8.com/dusk/344/php-logo.png" alt="php" height="18"/> [PHP](https://www.php.net/)
 - <img src="https://img.icons8.com/color/344/kotlin.png" alt="kotlin" height="18"/> [Kotlin](https://kotlinlang.org/)
-- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-color-tal-revivo.png" alt="lua" height="18" /> [Lua](https://www.lua.org/)
+- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-color-tal-revivo.png" alt="lua" height="18" /> [Lua (noob)](https://www.lua.org/)
+- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" alt="lua" height="18" /> [Rust (noob)](https://www.rust-lang.org/)
 
 </p>
 </details>
