@@ -69,7 +69,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 - <img src="https://img.icons8.com/color/344/git.png" alt="git" height="18"/> [Git](https://git-scm.com/)
 - <img src="https://img.icons8.com/fluency/344/docker.png" alt="docker" height="18"/> [Docker](https://www.docker.com/)
 - <img src="https://img.icons8.com/color/344/linux.png" alt="linux" height="18"/> [Linux](https://www.linux.org/)
-- <img src="https://img.icons8.com/color/344/bash.png" alt="bash" height="18"/> [Bash](https://www.gnu.org/software/bash/)
+- <img src="https://img.icons8.com/color/344/bash.png" alt="bash" height="18"/> [GNU Bash](https://www.gnu.org/software/bash/)
 - <img src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" height="18"/> [Figma](https://www.figma.com/)
 - <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" height="18"/> [Postman](https://www.postman.com/)
 - <img src="https://img.icons8.com/color/344/heroku.png" alt="heroku" height="18"/> [Heroku CLI](https://heroku.com/)
