@@ -41,8 +41,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 <details><summary>Frameworks</summary>
 <p>
   
-- <img src="https://img.icons8.com/color/344/react-native.png" alt="react" height="18"/> [ReactJS](https://reactjs.org/)
-- <img src="https://img.icons8.com/color/344/flutter.png" alt="flutter" height="18"/> [Flutter (noob)](https://flutter.dev/)
+[<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />](https://reactjs.org/)
 
 </p>
 </details>
@@ -104,7 +103,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 [<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
 [<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
 
-[<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />](https://reactjs.org/)
+
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/) 
 [<img alt="Linux" src="https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
 
@@ -113,7 +112,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 
 
 - <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="18"/> [C](https://en.cppreference.com/w/c/language)
-- <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="csharp" height="18"/> [C# (noob)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- <img src="https://img.icons8.com/color/344/c-shrap-logo.png" alt="csharp" height="18"/> [C# (noob)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="cplusplus" height="18"/> [C++](https://cplusplus.com/)
 - <img src="https://img.icons8.com/color/452/python--v1.png" alt="python" height="18"/> [Python](https://www.python.org/)
 - <img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" height="18"/> [NodeJS](https://nodejs.org/)
@@ -125,4 +124,5 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 <!--
 Here are some ideas to get you started:
 - ðŸ‘¯ Iâ€™m looking to collaborate on ...
+- <img src="https://img.icons8.com/color/344/flutter.png" alt="flutter" height="18"/> [Flutter (noob)](https://flutter.dev/)
 -->
