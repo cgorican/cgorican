@@ -112,7 +112,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 
 
 - <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="18"/> [C](https://en.cppreference.com/w/c/language)
-- <img src="https://img.icons8.com/color/344/c-shrap-logo.png" alt="csharp" height="18"/> [C# (noob)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- <img src="https://img.icons8.com/color/344/c-sharp-logo.png" alt="csharp" height="18"/> [C# (noob)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="cplusplus" height="18"/> [C++](https://cplusplus.com/)
 - <img src="https://img.icons8.com/color/452/python--v1.png" alt="python" height="18"/> [Python](https://www.python.org/)
 - <img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" height="18"/> [NodeJS](https://nodejs.org/)
