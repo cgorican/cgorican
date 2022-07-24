@@ -23,8 +23,10 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 <details><summary>Programming Languages</summary>
 <p>
   
-[<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
+[<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />](http://www.cplusplus.com/)
+[<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c#&logoColor=white" />](http://www.cplusplus.com/)
 [<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
+[<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
 
 </p>
 </details>
@@ -58,6 +60,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 <details><summary>Other</summary>
 <p>
   
+[<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
 - <img src="https://img.icons8.com/color/344/git.png" alt="git" height="18"/> [Git](https://git-scm.com/)
 - <img src="https://img.icons8.com/fluency/344/docker.png" alt="docker" height="18"/> [Docker](https://www.docker.com/)
 - <img src="https://img.icons8.com/color/344/linux.png" alt="linux" height="18"/> [Linux](https://www.linux.org/)
@@ -107,8 +110,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/) 
 [<img alt="Linux" src="https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
 
-[<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
-[<img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
+
 
 
 - <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="18"/> [C](https://en.cppreference.com/w/c/language)
