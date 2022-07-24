@@ -20,111 +20,71 @@ Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile �
 
 ## Skills
 
-<details><summary>Programming Languages</summary>
+<details open><summary>Programming Languages</summary>
 <p>
   
-[<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />](http://www.cplusplus.com/)
-[<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c#&logoColor=white" />](http://www.cplusplus.com/)
+[<img alt="C" src="https://img.shields.io/badge/-C-2f8dd4?style=flat-square&logo=c&logoColor=white" />](http://www.cplusplus.com/)
+[<img alt="C sharp" src="https://img.shields.io/badge/-C%23-e3e3e3?style=flat-square&logo=c%20sharp&logoColor=black" />](http://www.cplusplus.com/)
 [<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
-[<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
+[<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
+[<img alt="PHP" src="https://img.shields.io/badge/PHP-4f5b93?style=flat-square&logo=php&logoColor=white" />](https://www.php.net/)
+[<img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />](https://www.python.org/)
+[<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?&style=flat-square&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white" />](https://kotlinlang.org/)
+[<img alt="Rust" src="https://img.shields.io/badge/Rust-dbdbdb?style=flat-square&logo=rust&logoColor=black" />](https://www.rust-lang.org/)
+[<img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />](https://www.lua.org/)
 
 </p>
 </details>
 
-<details><summary>Databases</summary>
+<details open><summary>Databases</summary>
 <p>
 
-[<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />](https://www.mongodb.com/)
-[<img src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />](https://www.mysql.com/)
+[<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-116149?style=flat-square&logo=mongodb&logoColor=white" />](https://www.mongodb.com/)
+[<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />](https://www.mysql.com/)
 
 </p>
 </details>
 
-<details><summary>Frameworks</summary>
-<p>
-  
-[<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />](https://reactjs.org/)
-
-</p>
-</details>
-
-<details><summary>Environment (OS)</summary>
-<p>
-  
-- <img src="https://img.icons8.com/fluency/344/windows-10.png" alt="Windows10" height="18"/> [Windows 10](https://www.microsoft.com/en-gb/windows/)
-- <img src="https://img.icons8.com/color/344/parrot-security.png" alt="ParrotSecurity" height="18"/> [Parrot Security](https://www.parrotsec.org/)
-
-</p>
-</details>
-
-<details><summary>Other</summary>
+<details open><summary>Frameworks</summary>
 <p>
   
+[<img alt="React" src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />](https://reactjs.org/)
+
+</p>
+</details>
+
+<details open><summary>Environment (OS)</summary>
+<p>
+  
+[<img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows" />](https://www.archlinux.org/) 
+[<img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian" />](https://www.debian.org/)   
+
+</p>
+</details>
+
+<details open><summary>Other</summary>
+<p>
+
 [<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
-- <img src="https://img.icons8.com/color/344/git.png" alt="git" height="18"/> [Git](https://git-scm.com/)
-- <img src="https://img.icons8.com/fluency/344/docker.png" alt="docker" height="18"/> [Docker](https://www.docker.com/)
-- <img src="https://img.icons8.com/color/344/linux.png" alt="linux" height="18"/> [Linux](https://www.linux.org/)
-- <img src="https://img.icons8.com/color/344/bash.png" alt="bash" height="18"/> [GNU Bash](https://www.gnu.org/software/bash/)
-- <img src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" height="18"/> [Figma](https://www.figma.com/)
-- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" height="18"/> [Postman](https://www.postman.com/)
-- <img src="https://img.icons8.com/color/344/heroku.png" alt="heroku" height="18"/> [Heroku CLI](https://heroku.com/)
-- <img src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" alt="Adobe Photoshop" height="18" /> [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
-- <img src="https://img.icons8.com/fluency/344/affinity-photo-1.png" alt="Affinity Photo" height="18" /> [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
-- <img src="https://img.icons8.com/fluency/452/affinity-designer.png" alt="Affinity Designer" height="18" /> [Affinity Designer](https://affinity.serif.com/en-gb/designer/)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/)
+[<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/)
+[<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />](https://www.archlinux.org/) 
+[<img alt="GNU Bash" src="https://img.shields.io/badge/GNU_Bash-76ed40?style=flat-square&logo=gnu-bash&logoColor=black" />](https://www.gnu.org/software/bash/)
+[<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />](https://www.postman.com/)
+[<img alt="Figma" src="https://img.shields.io/badge/Figma-17302e?style=flat-square&logo=Figma&logoColor=white" />](https://www.figma.com/)
+[<img alt="Heroku CLI" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white" />](https://heroku.com/)
+[<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" />](https://www.adobe.com/products/photoshop.html)
+[<img alt="Affinity Photo" src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=flat-square&logo=affinity%20photo&logoColor=white" />](https://affinity.serif.com/en-gb/photo/)
+[<img alt="Affinity Designer" src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinity%20designer&logoColor=white" />](https://affinity.serif.com/en-gb/designer/)
 
 </p>
 </details>
-
-<ins>Languages</ins><br>
-[<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />](https://www.php.net/)
-[<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />](https://www.python.org/)
-[<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />](http://www.cplusplus.com/)
-[<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />](https://java.com/)
-[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Javascript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" alt="HTML" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[<img src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" alt="CSS" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />](https://www.lua.org/)
-
-
-<ins>VCS</ins><br>
-[<img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />](https://gitlab.com/)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />](https://github.com/)
-[<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />](https://git-scm.com/)
-
-<ins>Other Skills</ins><br>
-[<img src="https://img.shields.io/badge/XML-100000?style=flat-square" alt="XML" />]()
-[<img src="https://img.shields.io/badge/SVG-100000?style=flat-square&logo=svg&logoColor=white" alt="SVG" />]()
-[<img src="https://img.shields.io/badge/JSON-100000?style=flat-square&logo=json&logoColor=white" alt="JSON" />](https://www.json.org/)
-[<img src="https://img.shields.io/badge/Java%20Swing-100000?style=flat-square&logo=java&logoColor=white" alt="Java Swing" />]()
-[<img src="https://img.shields.io/badge/Markdown-100000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />](https://www.markdownguide.org/basic-syntax/)
-[<img src="https://img.shields.io/badge/Shell_Script-100000?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script" />]()
-[<img src="https://img.shields.io/badge/Systemd-100000?style=flat-square" alt="Systemd" />](https://www.freedesktop.org/wiki/Software/systemd/)
-[<img src="https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=white" alt="Gimp" />](https://www.gimp.org/)
-
-
-### Languages 👨‍💻
-[<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
-[<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
-
-
-[<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/) 
-[<img alt="Linux" src="https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
-
-
-
-
-- <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="18"/> [C](https://en.cppreference.com/w/c/language)
-- <img src="https://img.icons8.com/color/344/c-sharp-logo.png" alt="csharp" height="18"/> [C# (noob)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="cplusplus" height="18"/> [C++](https://cplusplus.com/)
-- <img src="https://img.icons8.com/color/452/python--v1.png" alt="python" height="18"/> [Python](https://www.python.org/)
-- <img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" height="18"/> [NodeJS](https://nodejs.org/)
-- <img src="https://img.icons8.com/dusk/344/php-logo.png" alt="php" height="18"/> [PHP](https://www.php.net/)
-- <img src="https://img.icons8.com/color/344/kotlin.png" alt="kotlin" height="18"/> [Kotlin](https://kotlinlang.org/)
-- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-color-tal-revivo.png" alt="lua" height="18" /> [Lua (noob)](https://www.lua.org/)
-- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" alt="lua" height="18" /> [Rust (noob)](https://www.rust-lang.org/)
 
 <!--
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- <img src="https://img.icons8.com/color/344/flutter.png" alt="flutter" height="18"/> [Flutter (noob)](https://flutter.dev/)
+Icon resources
+https://simpleicons.org/
+https://img.icons8.com/
 -->
