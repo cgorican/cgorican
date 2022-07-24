@@ -23,24 +23,17 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 <details><summary>Programming Languages</summary>
 <p>
   
-- <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="18"/> [C](https://en.cppreference.com/w/c/language)
-- <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="csharp" height="18"/> [C# (noob)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="cplusplus" height="18"/> [C++](https://cplusplus.com/)
-- <img src="https://img.icons8.com/color/452/python--v1.png" alt="python" height="18"/> [Python](https://www.python.org/)
-- <img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" height="18"/> [NodeJS](https://nodejs.org/)
-- <img src="https://img.icons8.com/dusk/344/php-logo.png" alt="php" height="18"/> [PHP](https://www.php.net/)
-- <img src="https://img.icons8.com/color/344/kotlin.png" alt="kotlin" height="18"/> [Kotlin](https://kotlinlang.org/)
-- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-color-tal-revivo.png" alt="lua" height="18" /> [Lua (noob)](https://www.lua.org/)
-- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" alt="lua" height="18" /> [Rust (noob)](https://www.rust-lang.org/)
+[<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
+[<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
 
 </p>
 </details>
 
 <details><summary>Databases</summary>
 <p>
-  
-- <img src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb" height="18"/> [MongoDB](https://www.mongodb.com/)
-- <img src="https://img.icons8.com/color/344/mysql-logo.png" alt="mysql" height="18"/> [MySQL](https://www.mysql.com/)
+
+[<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />](https://www.mongodb.com/)
+[<img src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />](https://www.mysql.com/)
 
 </p>
 </details>
@@ -90,16 +83,6 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 [<img src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" alt="CSS" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />](https://www.lua.org/)
 
-<ins>Frameworks</ins><br>
-[<img src="https://img.shields.io/badge/Laravel-f9322c?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />](https://laravel.com/)
-[<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />](https://getbootstrap.com/)
-[<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery" />](https://jquery.com/)
-[<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" />](https://numpy.org/)
-
-<ins>Databases</ins><br>
-[<img src="https://img.shields.io/badge/MariaDB-4e629a?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />](https://mariadb.org/)
-[<img src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />](https://www.mysql.com/)
-[<img src="https://img.shields.io/badge/SQLite-044a64?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />](https://www.sqlite.org/)
 
 <ins>VCS</ins><br>
 [<img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />](https://gitlab.com/)
@@ -126,17 +109,18 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 [<img alt="Linux" src="https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
 
 [<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
-[<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />](https://www.mongodb.com/) 
 [<img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
 
-#### Languages
 
-[<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
-[<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
-##### Languages
-
-[<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
-[<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
+- <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" height="18"/> [C](https://en.cppreference.com/w/c/language)
+- <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="csharp" height="18"/> [C# (noob)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="cplusplus" height="18"/> [C++](https://cplusplus.com/)
+- <img src="https://img.icons8.com/color/452/python--v1.png" alt="python" height="18"/> [Python](https://www.python.org/)
+- <img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" height="18"/> [NodeJS](https://nodejs.org/)
+- <img src="https://img.icons8.com/dusk/344/php-logo.png" alt="php" height="18"/> [PHP](https://www.php.net/)
+- <img src="https://img.icons8.com/color/344/kotlin.png" alt="kotlin" height="18"/> [Kotlin](https://kotlinlang.org/)
+- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-color-tal-revivo.png" alt="lua" height="18" /> [Lua (noob)](https://www.lua.org/)
+- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" alt="lua" height="18" /> [Rust (noob)](https://www.rust-lang.org/)
 
 <!--
 Here are some ideas to get you started:
