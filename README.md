@@ -80,6 +80,63 @@ Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile �
 </p>
 </details>
 
+<ins>Languages</ins><br>
+[<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />](https://www.php.net/)
+[<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />](https://www.python.org/)
+[<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />](http://www.cplusplus.com/)
+[<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />](https://java.com/)
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Javascript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" alt="HTML" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[<img src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" alt="CSS" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />](https://www.lua.org/)
+
+<ins>Frameworks</ins><br>
+[<img src="https://img.shields.io/badge/Laravel-f9322c?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />](https://laravel.com/)
+[<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />](https://getbootstrap.com/)
+[<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery" />](https://jquery.com/)
+[<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" />](https://numpy.org/)
+
+<ins>Databases</ins><br>
+[<img src="https://img.shields.io/badge/MariaDB-4e629a?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />](https://mariadb.org/)
+[<img src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />](https://www.mysql.com/)
+[<img src="https://img.shields.io/badge/SQLite-044a64?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />](https://www.sqlite.org/)
+
+<ins>VCS</ins><br>
+[<img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />](https://gitlab.com/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />](https://github.com/)
+[<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />](https://git-scm.com/)
+
+<ins>Other Skills</ins><br>
+[<img src="https://img.shields.io/badge/XML-100000?style=flat-square" alt="XML" />]()
+[<img src="https://img.shields.io/badge/SVG-100000?style=flat-square&logo=svg&logoColor=white" alt="SVG" />]()
+[<img src="https://img.shields.io/badge/JSON-100000?style=flat-square&logo=json&logoColor=white" alt="JSON" />](https://www.json.org/)
+[<img src="https://img.shields.io/badge/Java%20Swing-100000?style=flat-square&logo=java&logoColor=white" alt="Java Swing" />]()
+[<img src="https://img.shields.io/badge/Markdown-100000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />](https://www.markdownguide.org/basic-syntax/)
+[<img src="https://img.shields.io/badge/Shell_Script-100000?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script" />]()
+[<img src="https://img.shields.io/badge/Systemd-100000?style=flat-square" alt="Systemd" />](https://www.freedesktop.org/wiki/Software/systemd/)
+[<img src="https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=white" alt="Gimp" />](https://www.gimp.org/)
+
+
+### Languages 👨‍💻
+[<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
+[<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
+
+[<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />](https://reactjs.org/)
+[<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/) 
+[<img alt="Linux" src="https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
+
+[<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
+[<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />](https://www.mongodb.com/) 
+[<img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
+
+#### Languages
+
+[<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
+[<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
+##### Languages
+
+[<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
+[<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
 
 <!--
 Here are some ideas to get you started:
