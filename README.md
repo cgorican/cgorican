@@ -74,6 +74,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 [<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />](https://www.archlinux.org/) 
 [<img alt="GNU Bash" src="https://img.shields.io/badge/GNU_Bash-76ed40?style=flat-square&logo=gnu-bash&logoColor=black" />](https://www.gnu.org/software/bash/)
 [<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />](https://www.postman.com/)
+[<img alt="Atlassian Jira" src="https://img.shields.io/badge/Atlassian_Jira-0052CC?style=flat-square&logo=Jira%20Software&logoColor=white" />](https://www.atlassian.com/software/jira)
 [<img alt="Figma" src="https://img.shields.io/badge/Figma-17302e?style=flat-square&logo=Figma&logoColor=white" />](https://www.figma.com/)
 [<img alt="Heroku CLI" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white" />](https://heroku.com/)
 [<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" />](https://www.adobe.com/products/photoshop.html)
