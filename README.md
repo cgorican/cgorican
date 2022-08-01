@@ -6,7 +6,7 @@
 
 Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile 😄
 
-- 🌱 I’m currently learning <b>Angular</b>
+- 🌱 I’m currently learning <b>ASP.NET</b>
 - 💻 I'm currently working on a <b>Digital twin & blockchain project</b>
 - 📚 Student of <a href="https://feri.um.si/">FERI</a>
 - 🐳 Good friend with <b>Docker</b> and <b>Git</b>
