@@ -45,6 +45,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-116149?style=flat-square&logo=mongodb&logoColor=white" />](https://www.mongodb.com/)
 [<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />](https://www.mysql.com/)
 [<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />](https://www.mysql.com/)
+[<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />](https://www.postgresql.org/)
 
 </p>
 </details>
