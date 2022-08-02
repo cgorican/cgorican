@@ -71,7 +71,8 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 <p>
 
 [<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/cgorican)
+[<img alt="GitLab" src="https://img.shields.io/badge/GitLab-303030?style=flat-square&logo=gitlab" />](https://gitlab.com/cgorican)
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/)
 [<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />](https://www.archlinux.org/) 
 [<img alt="GNU Bash" src="https://img.shields.io/badge/GNU_Bash-76ed40?style=flat-square&logo=gnu-bash&logoColor=black" />](https://www.gnu.org/software/bash/)
