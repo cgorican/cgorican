@@ -24,8 +24,8 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 <details open><summary>Programming Languages</summary>
 <p>
   
-[<img alt="C" src="https://img.shields.io/badge/-C-2f8dd4?style=flat-square&logo=c&logoColor=white" />](http://www.cplusplus.com/)
-[<img alt="C sharp" src="https://img.shields.io/badge/-C%23-e3e3e3?style=flat-square&logo=c%20sharp&logoColor=black" />](http://www.cplusplus.com/)
+[<img alt="C" src="https://img.shields.io/badge/-C-2f8dd4?style=flat-square&logo=c&logoColor=white" />](https://www.learn-c.org/)
+[<img alt="C sharp" src="https://img.shields.io/badge/-C%23-e3e3e3?style=flat-square&logo=c%20sharp&logoColor=black" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
 [<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
 [<img alt="PHP" src="https://img.shields.io/badge/PHP-4f5b93?style=flat-square&logo=php&logoColor=white" />](https://www.php.net/)
