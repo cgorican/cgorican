@@ -85,6 +85,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 [<img alt="Affinity Photo" src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=flat-square&logo=affinity%20photo&logoColor=white" />](https://affinity.serif.com/en-gb/photo/)
 [<img alt="Affinity Designer" src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinity%20designer&logoColor=white" />](https://affinity.serif.com/en-gb/designer/)
 [<img alt="Krita" src="https://img.shields.io/badge/Krita-6929C4?style=flat-square&logo=Krita&logoColor=white" />](https://krita.org/en/)
+[<img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-1a1a1a?style=flat-square&logo=GitKraken&logoColor=179287" />](https://www.gitkraken.com/)
 
 </p>
 </details>
