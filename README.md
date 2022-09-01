@@ -55,7 +55,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 <p>
   
 [<img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />](https://reactjs.org/)
-[<img alt="Flutter" src="https://img.shields.io/badge/Flutter-ebebeb?style=flat-square&logo=Flutter&logoColor=02569B" />](https://reactjs.org/)
+[<img alt="Flutter" src="https://img.shields.io/badge/Flutter-ebebeb?style=flat-square&logo=Flutter&logoColor=02569B" />](https://flutter.dev/)
 
 </p>
 </details>
@@ -87,6 +87,8 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 [<img alt="Affinity Designer" src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinity%20designer&logoColor=white" />](https://affinity.serif.com/en-gb/designer/)
 [<img alt="Krita" src="https://img.shields.io/badge/Krita-6929C4?style=flat-square&logo=Krita&logoColor=white" />](https://krita.org/en/)
 [<img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-1a1a1a?style=flat-square&logo=GitKraken&logoColor=179287" />](https://www.gitkraken.com/)
+[<img alt="Microsoft Office" src="https://img.shields.io/badge/MS Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white" />](https://www.microsoft.com/en-us/microsoft-365)
+[<img alt="Libre Office" src="https://img.shields.io/badge/Libre Office-ebebeb?style=flat-square&logo=LibreOffice&logoColor=1a1a1a" />](https://www.libreoffice.org/)
 
 </p>
 </details>
