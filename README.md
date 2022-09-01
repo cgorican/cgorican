@@ -54,7 +54,8 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 <details open><summary>Frameworks</summary>
 <p>
   
-[<img alt="React" src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />](https://reactjs.org/)
+[<img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />](https://reactjs.org/)
+[<img alt="Flutter" src="https://img.shields.io/badge/Flutter-ebebeb?style=flat-square&logo=Flutter&logoColor=02569B" />](https://reactjs.org/)
 
 </p>
 </details>
