@@ -93,7 +93,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 <br/>
 [<img alt="Atlassian Jira" src="https://img.shields.io/badge/Atlassian_Jira-0052CC?style=flat-square&logo=Jira%20Software&logoColor=white" />](https://www.atlassian.com/software/jira)
 [<img alt="Libre Office" src="https://img.shields.io/badge/Libre Office-ebebeb?style=flat-square&logo=LibreOffice&logoColor=1a1a1a" />](https://www.libreoffice.org/)
-[<img alt="Microsoft Office" src="https://img.shields.io/badge/MS Office-d80139?style=flat-square&logo=Microsoft%20Office&logoColor=white" />](https://www.microsoft.com/en-us/microsoft-365)
+[<img alt="Microsoft Office" src="https://img.shields.io/badge/MS Office-a72849?style=flat-square&logo=Microsoft%20Office&logoColor=white" />](https://www.microsoft.com/en-us/microsoft-365)
 [<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />](https://www.postman.com/)
 <br/>
 [<img alt="Figma" src="https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=Figma" />](https://www.figma.com/)
