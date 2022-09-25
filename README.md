@@ -72,6 +72,10 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 <details open><summary>Deployment</summary>
 <p>
 
+[<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/)
+[<img alt="GNU Bash" src="https://img.shields.io/badge/GNU_Bash-1a1a1a?style=flat-square&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
+[<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />](https://www.archlinux.org/) 
+<br/>
 [<img alt="Heroku CLI" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white" />](https://heroku.com/)
 [<img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white" />](https://heroku.com/)
 [<img alt="Vercel" src="https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=Vercel&logoColor=white" />](https://heroku.com/)
@@ -83,21 +87,20 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 <p>
 
 [<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
+[<img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-1a1a1a?style=flat-square&logo=GitKraken&logoColor=179287" />](https://www.gitkraken.com/)
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/cgorican)
 [<img alt="GitLab" src="https://img.shields.io/badge/GitLab-303030?style=flat-square&logo=gitlab" />](https://gitlab.com/cgorican)
-[<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/)
-[<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />](https://www.archlinux.org/) 
-[<img alt="GNU Bash" src="https://img.shields.io/badge/GNU_Bash-76ed40?style=flat-square&logo=gnu-bash&logoColor=black" />](https://www.gnu.org/software/bash/)
-[<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />](https://www.postman.com/)
+<br/>
 [<img alt="Atlassian Jira" src="https://img.shields.io/badge/Atlassian_Jira-0052CC?style=flat-square&logo=Jira%20Software&logoColor=white" />](https://www.atlassian.com/software/jira)
-[<img alt="Figma" src="https://img.shields.io/badge/Figma-17302e?style=flat-square&logo=Figma&logoColor=white" />](https://www.figma.com/)
+[<img alt="Libre Office" src="https://img.shields.io/badge/Libre Office-ebebeb?style=flat-square&logo=LibreOffice&logoColor=1a1a1a" />](https://www.libreoffice.org/)
+[<img alt="Microsoft Office" src="https://img.shields.io/badge/MS Office-d80139?style=flat-square&logo=Microsoft%20Office&logoColor=white" />](https://www.microsoft.com/en-us/microsoft-365)
+[<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />](https://www.postman.com/)
+<br/>
+[<img alt="Figma" src="https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=Figma" />](https://www.figma.com/)
 [<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" />](https://www.adobe.com/products/photoshop.html)
-[<img alt="Affinity Photo" src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=flat-square&logo=affinity%20photo&logoColor=white" />](https://affinity.serif.com/en-gb/photo/)
+[<img alt="Affinity Photo" src="https://img.shields.io/badge/Affinity_Photo-1a1a1a?style=flat-square&logo=affinity%20photo" />](https://affinity.serif.com/en-gb/photo/)
 [<img alt="Affinity Designer" src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinity%20designer&logoColor=white" />](https://affinity.serif.com/en-gb/designer/)
 [<img alt="Krita" src="https://img.shields.io/badge/Krita-6929C4?style=flat-square&logo=Krita&logoColor=white" />](https://krita.org/en/)
-[<img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-1a1a1a?style=flat-square&logo=GitKraken&logoColor=179287" />](https://www.gitkraken.com/)
-[<img alt="Microsoft Office" src="https://img.shields.io/badge/MS Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white" />](https://www.microsoft.com/en-us/microsoft-365)
-[<img alt="Libre Office" src="https://img.shields.io/badge/Libre Office-ebebeb?style=flat-square&logo=LibreOffice&logoColor=1a1a1a" />](https://www.libreoffice.org/)
 
 </p>
 </details>
