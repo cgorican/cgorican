@@ -77,8 +77,8 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 [<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />](https://www.archlinux.org/) 
 <br/>
 [<img alt="Heroku CLI" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white" />](https://heroku.com/)
-[<img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white" />](https://heroku.com/)
-[<img alt="Vercel" src="https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=Vercel&logoColor=white" />](https://heroku.com/)
+[<img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white" />](https://www.digitalocean.com/)
+[<img alt="Vercel" src="https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=Vercel&logoColor=white" />](https://vercel.com/)
 
 </p>
 </details>
@@ -87,9 +87,9 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 <p>
 
 [<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
-[<img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-1a1a1a?style=flat-square&logo=GitKraken&logoColor=179287" />](https://www.gitkraken.com/)
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/cgorican)
 [<img alt="GitLab" src="https://img.shields.io/badge/GitLab-303030?style=flat-square&logo=gitlab" />](https://gitlab.com/cgorican)
+[<img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white" />](https://www.gitkraken.com/)
 <br/>
 [<img alt="Atlassian Jira" src="https://img.shields.io/badge/Atlassian_Jira-0052CC?style=flat-square&logo=Jira%20Software&logoColor=white" />](https://www.atlassian.com/software/jira)
 [<img alt="Libre Office" src="https://img.shields.io/badge/Libre Office-ebebeb?style=flat-square&logo=LibreOffice&logoColor=1a1a1a" />](https://www.libreoffice.org/)
