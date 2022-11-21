@@ -21,9 +21,9 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 - [SSRD.io](https://ssrd.io/) (2022 - Summer job)
   - Backend (.NET Core)
   - Database (PostgreSQL)
-  - Graphic design (Adobe Photoshop, Adobe Illustrator)
   - Unit & integration tests (xUnit)
   - Deployment (Docker & docker-compose)
+  - Graphic design (Adobe Photoshop, Adobe Illustrator)
 
 ## Skills
 
