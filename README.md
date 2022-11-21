@@ -2,12 +2,10 @@
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=cgorican)
 [![Github](https://img.shields.io/github/followers/cgorican?label=follow&style=social)](https://github.com/cgorican)
-<!--[![Github](https://img.shields.io/github/followers/cgorican?label=follow)](https://github.com/cgorican)-->
 
 Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile 😄
 
-- 🌱 I’m currently learning <b>.NET Core</b>
-- 🌟 Gaining experience at [SSRD.io](https://ssrd.io/)
+- 🌱 I’m currently learning <b>automatization</b> with python
 - 💻 I'm currently working on a <b>Digital twin & blockchain project</b>
 - 📚 Student of <a href="https://feri.um.si/">FERI</a>
 - 🐳 Good friend with <b>Docker</b> and <b>Git</b>
@@ -18,6 +16,13 @@ Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile �
 - ⚡ Fun fact: I like to learn ethical hacking in my free time
 - 📚 Student of <a href="https://feri.um.si/">FERI</a>
 -->
+
+## Experience
+- [SSRD.io](https://ssrd.io/) (2022 Summer job)
+  - Backend developer (.NET Core)
+  - Graphic design (Adobe Photoshop, Adobe Illustrator)
+  - Unit & integration tests (xUnit)
+  - Deployment (Docker & docker-compose)
 
 ## Skills
 
