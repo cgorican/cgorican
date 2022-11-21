@@ -33,15 +33,17 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 [<img alt="C" src="https://img.shields.io/badge/-C-2f8dd4?style=flat-square&logo=c&logoColor=white" />](https://www.learn-c.org/)
 [<img alt="C sharp" src="https://img.shields.io/badge/-C%23-e3e3e3?style=flat-square&logo=c%20sharp&logoColor=black" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
+[<img alt="Rust" src="https://img.shields.io/badge/Rust-dbdbdb?style=flat-square&logo=rust&logoColor=black" />](https://www.rust-lang.org/)
+[<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white" />](https://kotlinlang.org/)
+<br/>
 [<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
-[<img alt="PHP" src="https://img.shields.io/badge/PHP-4f5b93?style=flat-square&logo=php&logoColor=white" />](https://www.php.net/)
 [<img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />](https://www.python.org/)
-[<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img alt="PHP" src="https://img.shields.io/badge/PHP-4f5b93?style=flat-square&logo=php&logoColor=white" />](https://www.php.net/)
+[<img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />](https://www.lua.org/)
+<br/>
 [<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?&style=flat-square&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white" />](https://kotlinlang.org/)
-[<img alt="Rust" src="https://img.shields.io/badge/Rust-dbdbdb?style=flat-square&logo=rust&logoColor=black" />](https://www.rust-lang.org/)
-[<img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />](https://www.lua.org/)
+[<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 </p>
 </details>
