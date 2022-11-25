@@ -17,14 +17,6 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 - ðŸ“š Student of <a href="https://feri.um.si/">FERI</a>
 -->
 
-## Experience
-- [SSRD.io](https://ssrd.io/) (2022 - Summer job)
-  - Backend (.NET Core)
-  - Database (PostgreSQL)
-  - Unit & integration tests (xUnit)
-  - Deployment (Docker & docker-compose)
-  - Graphic design (Adobe Photoshop, Adobe Illustrator)
-
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/-C-1A1A1A?style=flat&logo=C&logoColor=A3E1F0)&nbsp;
@@ -69,6 +61,14 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 ![Affinity Photo](https://img.shields.io/badge/-Affinity_Photo-1A1A1A?style=flat&logo=affinity%20photo&logoColor=F189FF)&nbsp;
 ![Affinity Designer](https://img.shields.io/badge/-Affinity_Designer-1A1A1A?style=flat&logo=affinity%20designer&logoColor=52D0FB)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-001E38?style=flat&logo=adobe%20photoshop&logoColor=25A7FF)&nbsp;
+
+## Experience
+- [SSRD.io](https://ssrd.io/) (2022 - Summer job)
+  - Backend (.NET Core)
+  - Database (PostgreSQL)
+  - Unit & integration tests (xUnit)
+  - Deployment (Docker & docker-compose)
+  - Graphic design (Adobe Photoshop, Adobe Illustrator)
 
 <!--
 Icon resources:
