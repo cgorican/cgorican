@@ -25,96 +25,53 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
   - Deployment (Docker & docker-compose)
   - Graphic design (Adobe Photoshop, Adobe Illustrator)
 
-## Skills
+## Tech Stack
 
-<details open><summary>Programming Languages</summary>
-<p>
-  
-[<img alt="C" src="https://img.shields.io/badge/-C-2f8dd4?style=flat-square&logo=c&logoColor=white" />](https://www.learn-c.org/)
-[<img alt="C sharp" src="https://img.shields.io/badge/-C%23-e3e3e3?style=flat-square&logo=c%20sharp&logoColor=black" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
-[<img alt="Rust" src="https://img.shields.io/badge/Rust-dbdbdb?style=flat-square&logo=rust&logoColor=black" />](https://www.rust-lang.org/)
-[<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white" />](https://kotlinlang.org/)
+![C](https://img.shields.io/badge/-C-1A1A1A?style=flat&logo=C&logoColor=A3E1F0)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-1A1A1A?style=flat&logo=C%2B%2B&logoColor=5773C9)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-1A1A1A?style=flat&logo=Rust)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-1A1A1A?style=flat&logo=C#)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-1A1A1A?style=flat&logo=Kotlin)&nbsp;
 <br/>
-[<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
-[<img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />](https://www.python.org/)
-[<img alt="PHP" src="https://img.shields.io/badge/PHP-4f5b93?style=flat-square&logo=php&logoColor=white" />](https://www.php.net/)
-[<img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />](https://www.lua.org/)
+![NodeJS](https://img.shields.io/badge/-NodeJS-1A1A1A?style=flat&logo=Node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-1A1A1A?style=flat&logo=Python)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=Lua)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-1A1A1A?style=flat&logo=PHP)&nbsp;
 <br/>
-[<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?&style=flat-square&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-</p>
-</details>
-
-<details open><summary>Databases</summary>
-<p>
-
-[<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-116149?style=flat-square&logo=mongodb&logoColor=white" />](https://www.mongodb.com/)
-[<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />](https://www.mysql.com/)
-[<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />](https://www.mysql.com/)
-[<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />](https://www.postgresql.org/)
-
-</p>
-</details>
-
-<details open><summary>Frameworks</summary>
-<p>
-  
-[<img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />](https://reactjs.org/)
-[<img alt="Flutter" src="https://img.shields.io/badge/Flutter-ebebeb?style=flat-square&logo=Flutter&logoColor=02569B" />](https://flutter.dev/)
-
-</p>
-</details>
-
-<details open><summary>Environment (OS)</summary>
-<p>
-  
-[<img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows" />](https://www.archlinux.org/) 
-[<img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian" />](https://www.debian.org/)   
-
-</p>
-</details>
-
-<details open><summary>Deployment</summary>
-<p>
-
-[<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/)
-[<img alt="GNU Bash" src="https://img.shields.io/badge/GNU_Bash-1a1a1a?style=flat-square&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
-[<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />](https://www.archlinux.org/) 
+![HTML](https://img.shields.io/badge/-HTML5-1A1A1A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-1A1A1A?style=flat&logo=css3&logoColor=2862E9)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-1A1A1A?style=flat&logo=javascript)&nbsp;
 <br/>
-[<img alt="Heroku CLI" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white" />](https://heroku.com/)
-[<img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white" />](https://www.digitalocean.com/)
-[<img alt="Vercel" src="https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=Vercel&logoColor=white" />](https://vercel.com/)
-
-</p>
-</details>
-
-<details open><summary>Other</summary>
-<p>
-
-[<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/cgorican)
-[<img alt="GitLab" src="https://img.shields.io/badge/GitLab-303030?style=flat-square&logo=gitlab" />](https://gitlab.com/cgorican)
-[<img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white" />](https://www.gitkraken.com/)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1A1A1A?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-1A1A1A?style=flat&logo=mysql&logoColor=00758f)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1A1A1A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-1A1A1A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
 <br/>
-[<img alt="Atlassian Jira" src="https://img.shields.io/badge/Atlassian_Jira-0052CC?style=flat-square&logo=Jira%20Software&logoColor=white" />](https://www.atlassian.com/software/jira)
-[<img alt="Libre Office" src="https://img.shields.io/badge/Libre Office-ebebeb?style=flat-square&logo=LibreOffice&logoColor=1a1a1a" />](https://www.libreoffice.org/)
-[<img alt="Microsoft Office" src="https://img.shields.io/badge/MS Office-a72849?style=flat-square&logo=Microsoft%20Office&logoColor=white" />](https://www.microsoft.com/en-us/microsoft-365)
-[<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />](https://www.postman.com/)
+![React](https://img.shields.io/badge/-React-1A1A1A?style=flat&logo=React&logoColor=61DAFB)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-EBEBEB?style=flat&logo=Flutter&logoColor=02569B)&nbsp;
 <br/>
-[<img alt="Figma" src="https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=Figma" />](https://www.figma.com/)
-[<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" />](https://www.adobe.com/products/photoshop.html)
-[<img alt="Affinity Photo" src="https://img.shields.io/badge/Affinity_Photo-1a1a1a?style=flat-square&logo=affinity%20photo" />](https://affinity.serif.com/en-gb/photo/)
-[<img alt="Affinity Designer" src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinity%20designer&logoColor=white" />](https://affinity.serif.com/en-gb/designer/)
-[<img alt="Krita" src="https://img.shields.io/badge/Krita-6929C4?style=flat-square&logo=Krita&logoColor=white" />](https://krita.org/en/)
-
-</p>
-</details>
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=Debian)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-1A1A1A?style=flat&logo=Windows)&nbsp;
+<br/>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-1A1A1A?style=flat&logo=GitHub&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-1A1A1A?style=flat&logo=GitLab)&nbsp;
+<br/>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)&nbsp;
+![GNU Bash](https://img.shields.io/badge/-GNU_Bash-1A1A1A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)&nbsp;
+<br/>
+![Hetzner](https://img.shields.io/badge/-Hetzner-D50C2D?style=flat&logo=Hetzner)&nbsp;
+![Heroku CLI](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku&logoColor=white)&nbsp;
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=DigitalOcean&logoColor=white)&nbsp;
+<br/>
+![Figma](https://img.shields.io/badge/-Figma-1A1A1A?style=flat&logo=Figma)&nbsp;
+![Affinity Photo](https://img.shields.io/badge/-Affinity_Photo-1A1A1A?style=flat&logo=affinity%20photo&logoColor=F189FF)&nbsp;
+![Affinity Designer](https://img.shields.io/badge/-Affinity_Designer-1A1A1A?style=flat&logo=affinity%20designer&logoColor=52D0FB)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-001E38?style=flat&logo=adobe%20photoshop&logoColor=25A7FF)&nbsp;
 
 <!--
-Icon resources
+Icon resources:
 https://simpleicons.org/
 https://img.icons8.com/
 -->
