@@ -43,9 +43,9 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 ![Javascript](https://img.shields.io/badge/-Javascript-1A1A1A?style=flat&logo=javascript)&nbsp;
 <br/>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1A1A1A?style=flat&logo=mongodb)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-1A1A1A?style=flat&logo=mysql&logoColor=00758f)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1A1A1A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-1A1A1A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)&nbsp;
 <br/>
 ![React](https://img.shields.io/badge/-React-1A1A1A?style=flat&logo=React&logoColor=61DAFB)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-EBEBEB?style=flat&logo=Flutter&logoColor=02569B)&nbsp;
