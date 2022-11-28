@@ -63,7 +63,7 @@ Hi! My name is ÄŒrt. Thank You for taking the time to view my GitHub Profile ðŸ˜
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-001E38?style=flat&logo=adobe%20photoshop&logoColor=25A7FF)&nbsp;
 
 ## Experience
-- [SSRD.io](https://ssrd.io/) (2022 - Summer job)
+- [SSRD d.o.o.](https://ssrd.io/) (2022 - Summer job)
   - Backend (.NET Core)
   - Database (PostgreSQL)
   - Unit & integration tests (xUnit)
