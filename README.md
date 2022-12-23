@@ -10,12 +10,16 @@ Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile �
 - 📚 Student of <a href="https://feri.um.si/">FERI</a>
 - 🐳 Good friend with <b>Docker</b> and <b>Git</b>
 - 📫 You can reach me at <a href="mailto:crt.gorican@gmail.com">crt.gorican@gmail.com</a>
+
 <!--
 - 🤔 I’m looking for help with <b>game hacking</b>
 - 🔭 Would like to learn <b>hack games<b>
 - ⚡ Fun fact: I like to learn ethical hacking in my free time
 - 📚 Student of <a href="https://feri.um.si/">FERI</a>
 -->
+### Socials
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/cgorican)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cr2q94t/)
 
 ## Tech Stack
 
