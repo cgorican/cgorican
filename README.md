@@ -3,7 +3,7 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=cgorican)
 [![Github](https://img.shields.io/github/followers/cgorican?label=follow&style=social)](https://github.com/cgorican)
 
-Hi! My name is Črt. Thank You for taking the time to view my GitHub Profile 😄
+Hi! My name is Črt. Thank you for taking the time to view my GitHub profile 😄
 
 - 🌱 I’m currently learning <b>automatization</b> with Python
 - 💻 I'm currently working on a <b>Digital twin & blockchain project</b>
