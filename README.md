@@ -45,6 +45,7 @@ Hi! My name is ÄŒrt. Thank you for taking the time to view my GitHub profile ðŸ˜
 <br/>
 ![React](https://img.shields.io/badge/-React-1A1A1A?style=flat&logo=React&logoColor=61DAFB)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-EBEBEB?style=flat&logo=Flutter&logoColor=02569B)&nbsp;
+![Android](https://img.shields.io/badge/-Android-1A1A1A?style=flat&logo=Android&logoColor=3DDC84)&nbsp;
 <br/>
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=Debian)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-1A1A1A?style=flat&logo=Windows)&nbsp;
