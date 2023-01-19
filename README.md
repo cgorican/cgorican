@@ -17,9 +17,6 @@ Hi! My name is Črt. Thank you for taking the time to view my GitHub profile �
 - ⚡ Fun fact: I like to learn ethical hacking in my free time
 - 📚 Student of <a href="https://feri.um.si/">FERI</a>
 -->
-### Socials
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/cgorican)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cr2q94t/)
 
 ## Tech Stack
 
