@@ -51,13 +51,14 @@ Hi! My name is ÄŒrt. Thank you for taking the time to view my GitHub profile ðŸ˜
 ![GitHub](https://img.shields.io/badge/-GitHub-1A1A1A?style=flat&logo=GitHub&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-1A1A1A?style=flat&logo=GitLab)&nbsp;
 <br/>
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)&nbsp;
-![GNU Bash](https://img.shields.io/badge/-GNU_Bash-1A1A1A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)&nbsp;
-<br/>
 ![Hetzner](https://img.shields.io/badge/-Hetzner-D50C2D?style=flat&logo=Hetzner)&nbsp;
 ![Heroku CLI](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku&logoColor=white)&nbsp;
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=DigitalOcean&logoColor=white)&nbsp;
+<br/>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)&nbsp;
+![GNU Bash](https://img.shields.io/badge/-GNU_Bash-1A1A1A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)&nbsp;
+![Nginx](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=NGINX&logoColor=white)&nbsp;
 <br/>
 ![Figma](https://img.shields.io/badge/-Figma-1A1A1A?style=flat&logo=Figma)&nbsp;
 ![Affinity Photo](https://img.shields.io/badge/-Affinity_Photo-1A1A1A?style=flat&logo=affinity%20photo&logoColor=F189FF)&nbsp;
