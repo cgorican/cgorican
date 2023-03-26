@@ -65,9 +65,6 @@ Hi! My name is ÄŒrt. Thank you for taking the time to view my GitHub profile ðŸ˜
 ![Affinity Designer](https://img.shields.io/badge/-Affinity_Designer-1A1A1A?style=flat&logo=affinity%20designer&logoColor=52D0FB)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-001E38?style=flat&logo=adobe%20photoshop&logoColor=25A7FF)&nbsp;
 
-## Experience
-- [SSRD](https://ssrd.io/) (2022 - Summer job) *Backend developer*
-
 <!--
 Icon resources:
 https://simpleicons.org/
