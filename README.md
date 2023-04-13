@@ -2,8 +2,8 @@
 
 Hi! My name is Črt. Thank you for taking the time to view my GitHub profile 😄
 
-- 🌱 I’m currently learning <b>automatization</b> with Python
-- 💻 I'm currently working on a <b>Digital twin & blockchain project</b>
+- 🌱 I’m currently learning <b>Rust</b>
+- 💻 I'm currently working on <b>personal projects</b>
 - 📚 Student of <a href="https://feri.um.si/">FERI</a>
 - 🐳 Good friend with <b>Docker</b> and <b>Git</b>
 - 📫 You can reach me at <a href="mailto:crt.gorican@gmail.com">crt.gorican@gmail.com</a>
