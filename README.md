@@ -18,16 +18,16 @@ Hi! My name is ÄŒrt. Thank you for taking the time to view my GitHub profile ðŸ˜
 ## Tech Stack
 
 
+![Angular](https://img.shields.io/badge/-Angular-EBEBEB?style=flat&logo=Angular&logoColor=DD0031)&nbsp;
 ![React](https://img.shields.io/badge/-React-1A1A1A?style=flat&logo=React&logoColor=61DAFB)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-1A1A1A?style=flat&logo=Android&logoColor=3DDC84)&nbsp;
 <br/>
 ![NodeJS](https://img.shields.io/badge/-NodeJS-1A1A1A?style=flat&logo=Node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-1A1A1A?style=flat&logo=Python)&nbsp;
 <br/>
-![C](https://img.shields.io/badge/-C-1A1A1A?style=flat&logo=C&logoColor=A3E1F0)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-EBEBEB?style=flat&logo=Rust&logoColor=1A1A1A)&nbsp;
 ![C++](https://img.shields.io/badge/-C%2B%2B-1A1A1A?style=flat&logo=C%2B%2B&logoColor=5773C9)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-1A1A1A?style=flat&logo=Rust)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-1A1A1A?style=flat&logo=C#)&nbsp;
+![.NET](https://img.shields.io/badge/-Core-512BD4?style=flat&logo=dotnet)&nbsp;
 <br/>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1A1A1A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=flat&logo=mysql&logoColor=white)&nbsp;
