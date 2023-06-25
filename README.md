@@ -6,7 +6,7 @@ Hi! My name is Črt. Thank you for taking the time to view my GitHub profile �
 - 💻 I'm currently working on <b>personal projects</b>
 - 📚 Student of <a href="https://feri.um.si/"><b>FERI</b></a>
 - 🐳 Good friend with <b>Docker</b> and <b>Git</b>
-- 📫 You can reach me at <a href="mailto:crt.gorican@gmail.com">crt.gorican@gmail.com</a>
+- 📫 You can reach me at <a href="mailto:crt.gorican@protonmail.com">crt.gorican@protonmail.com</a>
 
 <!--
 - 🤔 I’m looking for help with <b>game hacking</b>
