@@ -8,10 +8,6 @@
   </br>
 </div>
 
-<h3 align="center">Fun Fact</h3>
-<div align="center">
-  In my spare time, I indulge in the exciting realm of ethical hacking. It's a fascinating domain that allows me to understand security vulnerabilities and contribute to building more robust systems. I'm constantly learning and striving to expand my knowledge in this area.
-</div>
 
 ## Tech Stack
 
