@@ -17,6 +17,7 @@
 ![Android](https://img.shields.io/badge/-Android-1A1A1A?style=flat&logo=Android&logoColor=3DDC84)&nbsp;
 <br/>
 ![NodeJS](https://img.shields.io/badge/-NodeJS-1A1A1A?style=flat&logo=Node.js)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=Typescript&logoColor=EBEBEB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-1A1A1A?style=flat&logo=Python)&nbsp;
 <br/>
 ![Rust](https://img.shields.io/badge/-Rust-EBEBEB?style=flat&logo=Rust&logoColor=1A1A1A)&nbsp;
